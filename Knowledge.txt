@@ -1,2 +1,11 @@
 Data structure - A data structure is a specific way of organizing, storing, and accessing data.
+
 Algorithm - A set of instruction that tells a computer how to do something, or you can also step-by-step solution of the problem is called algorithm
+
+Why should I care? - Efficient problem solving, Algorithmic Awareness, Stronger coding skills, Interview Success, Efficiency expert, coding confidence, improve logical thinking, future proof your skills, innovation inspiration, lifelong learning, Critical Thinking Champion.
+
+iterate means loop
+
+Big O - Big O notation helps us understand how long an algorithm will take to run or how much memory it will need as the amount of data it handles grows.
+
+//O(n) - aka constant time, signifies that the execution time of an algorithm remains constant regardless of the input size
