@@ -27,7 +27,6 @@ const list = [
         favorite_num: 5
     }
 ]
-
-//Returns the last index at which a given element can be found in the array, or -1 if it is not present. The array is searched backwards, starting at fromIndex.
-const lastIndexOf = normalArray.lastIndexOf(5)
-console.log(lastIndexOf);
+//Appends new elements to the end of an array, and returns the new length.
+const push = normalArray.push("str KIel")
+console.log(normalArray);

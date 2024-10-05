@@ -28,6 +28,9 @@ const list = [
     }
 ]
 
-//Returns the last index at which a given element can be found in the array, or -1 if it is not present. The array is searched backwards, starting at fromIndex.
-const lastIndexOf = normalArray.lastIndexOf(5)
-console.log(lastIndexOf);
+//Returns true if the given element is present in the array.
+const includes = normalArray.includes(3)
+console.log(includes);
+
+
+
