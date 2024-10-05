@@ -27,7 +27,10 @@ const list = [
         favorite_num: 5
     }
 ]
+//Removes the last element from an array and returns that element.
+const pop = normalArray.pop()
+console.log(normalArray);
 
-//Returns the last index at which a given element can be found in the array, or -1 if it is not present. The array is searched backwards, starting at fromIndex.
-const lastIndexOf = normalArray.lastIndexOf(5)
-console.log(lastIndexOf);
+
+
+
