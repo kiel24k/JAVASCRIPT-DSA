@@ -1,4 +1,4 @@
-const normalArray = [1,2,3,4,5]
+
 
 const list = [
     {
@@ -28,5 +28,8 @@ const list = [
     }
 ]
 
-const findIndex = normalArray.findIndex((el) => el === 1)
+const normalArray = [1,2,3,4,5,'six',7,'eight']
+
+
+const findIndex = normalArray.findIndex((el) => el === 'eight')
 console.log(findIndex);

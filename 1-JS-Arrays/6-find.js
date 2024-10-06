@@ -1,4 +1,4 @@
-const normalArray = [1,2,3,4,5]
+const normalArray = [1,2,3,4,5,'six']
 
 const list = [
     {
@@ -28,7 +28,10 @@ const list = [
     }
 ] 
 //Returns the value of the first element in the array that satisfies the provided testing function. Otherwise undefined is returned.
-const find = list.find((el) => el.favorite_num === 12)
+const find = normalArray.find((element) => element === 'six')
 console.log(find);
+
+
+
 
 

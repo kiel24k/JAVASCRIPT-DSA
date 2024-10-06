@@ -29,8 +29,10 @@ const list = [
 ]
 
 //Returns a new array with all elements that pass the test implemented by the provided function.
+
 const filter = normalArray.filter((element) => element === 'five')
 console.log(filter);
+
 
 
 

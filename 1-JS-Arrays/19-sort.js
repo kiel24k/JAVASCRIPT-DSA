@@ -1,4 +1,4 @@
-const normalArray = [1,5,3,4,5]
+const normalArray = ["hahah",1,5,3,4,5]
 
 const list = [
     {
@@ -30,3 +30,4 @@ const list = [
 //Sorts the elements of an array in place and returns the array. The default sort order is according to string Unicode code points.
 const sort = normalArray.sort()
 console.log(sort);
+

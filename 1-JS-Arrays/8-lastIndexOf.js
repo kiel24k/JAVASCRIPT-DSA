@@ -1,4 +1,4 @@
-const normalArray = [1,2,3,4,5]
+
 
 const list = [
     {
@@ -29,5 +29,8 @@ const list = [
 ]
 
 //Returns the last index at which a given element can be found in the array, or -1 if it is not present. The array is searched backwards, starting at fromIndex.
-const lastIndexOf = normalArray.lastIndexOf(5)
+const normalArray = [1,2,3,4,5,'six',7,'eight']
+
+const lastIndexOf = normalArray.lastIndexOf(2)
 console.log(lastIndexOf);
+
