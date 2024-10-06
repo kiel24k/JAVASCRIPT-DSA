@@ -1,4 +1,4 @@
-const normalArray = [1,2,3,4,5]
+const normalArray = [1,2,3,5,5,'five']
 
 const list = [
     {
@@ -27,6 +27,12 @@ const list = [
         favorite_num: 5
     }
 ]
-// /Reduce the array to a single value. The value returned by the function is stored in an accumulator (result/total).
-const reduce = list.reduce((total, elem) => total + elem.favorite_num, 0)
+
+//Returns a new array with all elements that pass the test implemented by the provided function.
+const filter = normalArray.filter((element) => element === 'five')
+console.log(filter);
+
+
+
+
 

@@ -27,8 +27,9 @@ const list = [
         favorite_num: 5
     }
 ]
+// /Reduce the array to a single value. The value returned by the function is stored in an accumulator (result/total).
+const reduce = normalArray.reduce((total, element) => total + element, 0)
+console.log(reduce);
 
-//Returns a new array with all elements that pass the test	 implemented by the provided function.
-const filter = list.filter((el) => el.favorite_num % 2 === 0)
 
-console.log(filter);
+
