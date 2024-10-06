@@ -27,7 +27,7 @@ const list = [
         favorite_num: 5
     }
 ]
-
+//Joins all elements of an array into a string.
 const join = normalArray.join(', ')
 console.log(join);
 

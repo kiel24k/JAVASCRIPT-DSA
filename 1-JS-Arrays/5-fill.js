@@ -30,5 +30,6 @@ const list = [
 
 
 //!! fill is works only in arrays
-const fill = normalArray.fill(0)
+const fill = normalArray.fill("HAHAH")
 console.log(fill);
+

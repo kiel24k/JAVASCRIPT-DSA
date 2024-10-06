@@ -30,5 +30,5 @@ const list = [
 //Reverses the order of the elements in an array.
 const reverse = normalArray.reverse()
 console.log(reverse);
-console.log(normalArray);
+
 

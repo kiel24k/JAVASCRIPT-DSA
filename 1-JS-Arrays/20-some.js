@@ -28,7 +28,8 @@ const list = [
     }
 ]
 //Returns true if at least one element in the array passes the test implemented by the provided function.
-const some = normalArray.some((e) => e === 2)
+const some = normalArray.some((element) => element === 5)
 console.log(some);
+
 
 
