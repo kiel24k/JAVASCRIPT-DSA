@@ -28,8 +28,9 @@ const list = [
     }
 ] 
 //Returns the value of the first element in the array that satisfies the provided testing function. Otherwise undefined is returned.
-const find = normalArray.find((element) => element === 'six')
+const find = normalArray.find((e) => e === 2)
 console.log(find);
+
 
 
 

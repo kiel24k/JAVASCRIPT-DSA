@@ -31,3 +31,6 @@ const list = [
 const sort = normalArray.sort()
 console.log(sort);
 
+
+
+

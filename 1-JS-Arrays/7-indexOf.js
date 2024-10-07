@@ -31,7 +31,8 @@ const list = [
 const normalArray = [1,2,3,4,5,'index me']
 //!! always negative 1
 //Returns the first index at which a given element can be found in the array, or -1 if it is not present.
-const indexOf = normalArray.indexOf(3)
+const indexOf = normalArray.indexOf('index me')
+
 console.log(indexOf);
 
 

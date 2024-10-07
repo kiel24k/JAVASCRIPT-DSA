@@ -32,3 +32,4 @@ const reverse = normalArray.reverse()
 console.log(reverse);
 
 
+

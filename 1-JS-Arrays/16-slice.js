@@ -1,4 +1,4 @@
-const normalArray = [1,5,3,4,5,6,7,8,9]
+
 
 const list = [
     {
@@ -27,9 +27,12 @@ const list = [
         favorite_num: 5
     }
 ]
+const normalArray = [1,5,3,4,5,6,7,8,9]
 //Returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included). The original array will not be modified.
 const slice = normalArray.slice(2,5)
 console.log(slice);
+
+
 
 
 
