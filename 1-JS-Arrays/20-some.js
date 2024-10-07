@@ -28,8 +28,9 @@ const list = [
     }
 ]
 //Returns true if at least one element in the array passes the test implemented by the provided function.
-const some = normalArray.some((element) => element === 5)
+const some = list.some((el) => el.favorite_num === 11)
 console.log(some);
+
 
 
 

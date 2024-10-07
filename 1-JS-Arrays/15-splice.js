@@ -1,4 +1,4 @@
-const normalArray = [1,2,3,4,5]
+
 
 const list = [
     {
@@ -27,11 +27,12 @@ const list = [
         favorite_num: 5
     }
 ]
-
+const normalArray = [1,2,3,4,5]
 //Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
-const splice = normalArray.splice(1,3)
+const splice = normalArray.splice(1,4)
 console.log(splice);
-console.log(normalArray);
+
+
 
 
 

@@ -30,8 +30,9 @@ const list = [
 
 //Returns a new array with all elements that pass the test implemented by the provided function.
 
-const filter = normalArray.filter((element) => element === 'five')
+const filter = normalArray.filter((e) => e === 2)
 console.log(filter);
+
 
 
 

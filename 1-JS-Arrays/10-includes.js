@@ -30,9 +30,7 @@ const list = [
 const normalArray = [1,2,3,4,5,'six',7,'eight']
 
 
-//Returns true if the given element is present in the array.
-const includes = normalArray.includes('eight')
-console.log(includes);
+const includes = normalArray.includes('six')
 
 
 
