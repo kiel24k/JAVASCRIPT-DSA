@@ -31,6 +31,12 @@ const list = [
 const sort = normalArray.sort()
 console.log(sort);
 
+const arraySample = [1,2,4,5,6,7,8,29]
+
+const sort1 = arraySample.sort((a, b) => a - b) 
+console.log(sort1);
+
+
 
 
 

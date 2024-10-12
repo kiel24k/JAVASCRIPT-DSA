@@ -22,7 +22,9 @@ const list = [
 ]
 
 const normalArray = [1,2,3,4,5]
-const map = normalArray.map((e) => e + 2)
+const map = list.map((e) => {
+   return  e.favorite_num + 2
+})
 console.log(map);
 
 
