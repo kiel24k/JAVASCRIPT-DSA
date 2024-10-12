@@ -29,8 +29,10 @@ const list = [
 ]
 const normalArray = [1,2,3,4,5]
 //Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
-const splice = normalArray.splice(1,4)
+const splice = normalArray.splice(1,1)
 console.log(splice);
+console.log(normalArray);
+
 
 
 
