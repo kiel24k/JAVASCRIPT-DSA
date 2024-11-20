@@ -4,4 +4,4 @@ let text = "Kiel, Alarcon,  Bermudez"
 let result = text.toUpperCase()
 let result1 = text.toLowerCase()
 console.log(result);
-console.log(result1) wag kana magsalita ng hanon
+console.log(result1);
