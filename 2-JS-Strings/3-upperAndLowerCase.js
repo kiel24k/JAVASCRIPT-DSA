@@ -3,5 +3,5 @@ let text = "Kiel, Alarcon,  Bermudez"
 // toLowerCase() returns the passed string in lower case
 let result = text.toUpperCase()
 let result1 = text.toLowerCase()
-console.log(result)
+console.log(result);
 console.log(result1);
