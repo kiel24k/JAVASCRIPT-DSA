@@ -2,7 +2,7 @@ const list = [
     {
         name: 'Juns',
         age: 2,
-        favorite_num: 2,
+        favorite_num: 42,
     },
     {
         name: 'Mers',
