@@ -2,7 +2,7 @@ Data structure - A data structure is a specific way of organizing, storing, and 
 
 Algorithm - A set of instruction that tells a computer how to do something, or you can also step-by-step solution of the problem is called algorithm
 
-Why should I care? - Efficient problem solving, Algorithmic Awareness, Stronger coding skills, Interview Success, Efficiency expert, coding con32fidence, improve logical thinking, future proof your skills, innovation inspiration, lifelong learning, Critical Thinking Champion.
+Why should I care? - Efficient problem solving, Algorithmic Awareness, Stronger coding skills, Interview Success, Efficiency expert, coding confidence, improve logical thinking, future proof your skills, innovation inspiration, lifelong learning, Critical Thinking Champion.
 
 iterate means loop
 
@@ -10,4 +10,4 @@ Big O - Big O notation helps us understand how long an algorithm will take to ru
 
 //O(n) - aka constant time, signifies that the execution time of an algorithm remains constant regardless of the input size
 
-//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly
+//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly..
