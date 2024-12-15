@@ -9,6 +9,6 @@ iterate means loop
 Big O - Big O notation helps us understand how long an algorithm will take to run or how much memory it will need as the amount of data it handles grows.
 
 //O(n) - aka constant time, signifies that the execution time of an algorithm remains constant regardless of the input size
-
-//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly.
+.
+//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly..
 
