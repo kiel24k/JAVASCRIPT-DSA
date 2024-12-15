@@ -10,5 +10,5 @@ Big O - Big O notation helps us understand how long an algorithm will take to ru
 
 //O(n) - aka constant time, signifies that the execution time of an algorithm remains constant regardless of the input size
 .
-//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly..
+//O(Log n) - O(log n) time complexity refers to an algorithm's runtime that grows logarithmically with the size  of the input (represented by n). In simpler terms, as the input size increase slowly.
 
