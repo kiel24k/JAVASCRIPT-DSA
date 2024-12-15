@@ -12,4 +12,4 @@ const findStudent = (allStudents, studentName) => {
   }
 };
 
-findStudent(studentDatabase, 'ericks')
+findStudent(studentDatabase, 'ericksds')
