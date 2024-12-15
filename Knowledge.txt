@@ -2,7 +2,7 @@ Data structure - A data structure is a specific way of organizing, storing, and 
 
 Algorithm - A set of instruction that tells a computer how to do something, or you can also step-by-step solution of the problem is called algorithm
 
-Why should I care? - Efficient problem solving, Algorithmic Awareness, Stronger coding skills, Interview Success, Efficiency expert, coding confidence, improve logical thinking, future proof your skills, innovation inspiration, lifelong learning, Critical Thinking Champion.
+Why should I care? - Efficient problem solving, Algorithmic Awareness, Stronger coding skills, Interview Success, Efficiency expert, coding con32fidence, improve logical thinking, future proof your skills, innovation inspiration, lifelong learning, Critical Thinking Champion.
 
 iterate means loop
 
