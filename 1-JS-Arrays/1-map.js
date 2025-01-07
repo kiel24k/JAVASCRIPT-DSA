@@ -2,12 +2,12 @@ const list = [
     {
         name: '2dsadJ',
         age: 2,
-        favorite_num:"sad",
+        favorite_num:"saddsa",
     },
     {
         name: 'Ms',
         age: 21236,
-        favorite_num:"adsy",
+        favorite_num:"y",
     },
     {
         name: 'Frattfnace',
