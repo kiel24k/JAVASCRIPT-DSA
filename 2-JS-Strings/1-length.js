@@ -1,4 +1,4 @@
-let text = "Kiel Alarcon Bermussdssez"
+let text = "Kiel Alarcon Bermussssdssez"
 //The **length **property returns the length of a string:
 let length = text.length
 console.log(length)
