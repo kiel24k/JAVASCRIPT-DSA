@@ -1,6 +1,6 @@
 const list = [
     {
-        name: "'zssl'",
+        name: "'zl'",
         age: 2,
         favorite_num:"
     ",
