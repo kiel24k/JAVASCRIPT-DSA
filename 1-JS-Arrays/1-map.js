@@ -1,6 +1,6 @@
 const list = [
     {
-        name: "'hahaha'",
+        name: "'hahadaha'",
         age: 2,
         favorite_num:"
     ",
