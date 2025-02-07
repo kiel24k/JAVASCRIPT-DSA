@@ -21,4 +21,4 @@ function twoSum(nums, target) {
 const res = twoSum([2, 2, 7, 15], 9);
 console.log(res);
 
-//ahaha si kiel hahhasssss
+//ahaha si kiel hahhasssssss
