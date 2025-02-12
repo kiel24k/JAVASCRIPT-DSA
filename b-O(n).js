@@ -27,6 +27,6 @@ const getElement = (arr, index) => arr[index];
 
 console.log(getElement(numbers, 3));
 //kakahsssspoossux
-
+s
 
 
