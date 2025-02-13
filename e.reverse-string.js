@@ -4,6 +4,6 @@ const reverseString = (str) => {
 
 console.log(reverseString("Hellow"));
 console.log(reverseString('boobana'));
-//reversessdd
+//rever
 
 
