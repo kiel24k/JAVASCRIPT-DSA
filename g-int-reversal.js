@@ -3,4 +3,4 @@ const intReversal = (int) => {
    return parseInt(reverse) * Math.sign(int)
 }
 console.log(intReversal(12345));
-//dffg
+//dffgtyu
