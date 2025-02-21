@@ -13,5 +13,4 @@ const findStudent = (allStudents, studentName) => {
 };
 
 findStudent(studentDatabase, 'erics')
-//hahahahahahasuwhsushexiejizhs
-sieie
+//hahahahahahasuwhsushexie
