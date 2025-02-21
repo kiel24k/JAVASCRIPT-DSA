@@ -13,4 +13,4 @@ const findStudent = (allStudents, studentName) => {
 };
 
 findStudent(studentDatabase, 'erics')
-//hahhauahuahajsais
+//hahahaha
