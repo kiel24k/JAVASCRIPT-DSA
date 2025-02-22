@@ -4,4 +4,5 @@ let text = "   Kiel Alarcon Bermudez   "
 let result = text
 console.log(result);
 //ehehedksadbdjsadadhuasd
-dsa
+
+
