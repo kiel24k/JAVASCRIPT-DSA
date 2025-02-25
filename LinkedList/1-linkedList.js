@@ -4,6 +4,7 @@ class Node {
         this.next = null
     }
 }
+//dsadsa
 
 class LinkedList {
     constructor(value){
