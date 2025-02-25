@@ -4,7 +4,7 @@ class Node {
         this.next = null
     }
 }
-//kiel the greath
+//kiel the greathnhu
 
 class LinkedList {
     constructor(value){
