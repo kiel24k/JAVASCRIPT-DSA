@@ -4,5 +4,5 @@
 const palindrome = (str) => {
    return str.split("").reverse().join("") === str
 }
-console.log(palindrome("hesSASSadasdsallo"));
+console.log(palindrome("sallo"));
 console.log(palindrome("cddcdsadsdsda"));
