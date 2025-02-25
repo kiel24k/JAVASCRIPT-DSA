@@ -1,4 +1,4 @@
-class Node {
+hclass Node {
     constructor(value){ //is like declaration of variable
         this.head = value
         this.next = null
