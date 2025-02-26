@@ -1,6 +1,6 @@
 const groceries = ["milk", "bread", "eggs", "flour", "choose", "sugar"];
 
-//O(n) - stop execution when item is found fafa dada rere ere tete teteeredasd
+//O(n) - stop execution when item is found fafa dada rere ere tete teteeredasd dad
 
 const searchForItem = (item) => {
   for (let i = 0; i < groceries.length; i++) {
