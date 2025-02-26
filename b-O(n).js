@@ -16,7 +16,7 @@ const searchForItem = (item) => {
   }
 
   //n + n = 2n -> O(2n)
-  //drop the constant so it become 0(2n)dsadsa
+  //drop the constant so it become 0(dsda2n)dsadsa
 };
 searchForItem("sugarugh");
 
