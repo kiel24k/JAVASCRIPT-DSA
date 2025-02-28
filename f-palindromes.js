@@ -6,5 +6,4 @@ const palindrome = (str) => {
 }
 console.log(palindrome("saldldsdddsadsadads"));
 console.log(palindrome("cddcdsadsdsda"));
-//progress hahah report check okau bayfasfsdsadasdadsffsdas
-dsad
+//progress hahah report check
