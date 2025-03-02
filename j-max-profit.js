@@ -35,6 +35,6 @@ const maxProfit = (prices) => {
 } 
 const profit = maxProfit(prices)
 console.log("maximum profit is: ", profit);
-//isiushd
+//isiushdosiz
 
 
