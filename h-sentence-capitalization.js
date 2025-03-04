@@ -11,4 +11,4 @@ console.log(sentence("hellow world haha"));
 //slice ay index and number
 const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];
 console.log(animals.slice(2,5));
-//dkeushdugna
+//dkeushdugnalskz
