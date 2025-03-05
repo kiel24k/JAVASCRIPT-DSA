@@ -29,7 +29,7 @@ const chunk = (array, size) => {
    return chunked
     
 }
-//sige kiel hehehehu h
+//sige kiel hehehehu hjb
 
 console.log(chunk([1,2,3,4,5,6,7,1], 1));
 
