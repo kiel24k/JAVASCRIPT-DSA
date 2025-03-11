@@ -68,4 +68,4 @@ console.log(myNewArray);
 const item = [1, 2, 3, 4, 5];
 
 item.shift(0);
-//#sdddddddddddd
+//#sdddddddddddddd
