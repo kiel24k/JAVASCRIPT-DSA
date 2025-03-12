@@ -15,5 +15,5 @@ const fizzBuzz = (n) => {
     }
 }
 console.log(fizzBuzz(15));
-//kiel dasdsaf
+//kiel dasdsafdasd
 
