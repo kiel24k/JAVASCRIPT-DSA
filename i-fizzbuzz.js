@@ -17,5 +17,5 @@ const fizzBuzz = (n) => {
 console.log(fizzBuzz(15));
 //kiel dasddsadsadasdas dasdsa dasdsdasdsa
 //kiel alarconbe bermudezdsadsdsadas dsadasd dsadsa dsada
- //dsadfdsadasdsadsa
+ //dsadfdsadasdsadsadsadsa
 
