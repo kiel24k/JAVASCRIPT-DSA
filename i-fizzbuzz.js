@@ -16,5 +16,6 @@ const fizzBuzz = (n) => {
 }
 console.log(fizzBuzz(15));
 //kiel dasddsadsadasdas dasdsa dasdsdasdsa
-/dasdsa
+//kiel alarconbe bermudez
+
 
