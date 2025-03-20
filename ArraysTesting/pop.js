@@ -4,3 +4,4 @@ const pop = arraySample.pop()
 console.log(arraySample);
 
 8$$//lsos
+xkd
