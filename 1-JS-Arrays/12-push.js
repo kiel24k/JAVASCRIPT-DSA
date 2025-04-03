@@ -31,3 +31,4 @@ const list = [
 const push = normalArray.push("str KIel")
 console.log(normalArray);
 //dasdasdasddasddasddasd
+dsa
