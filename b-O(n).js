@@ -1,4 +1,4 @@
-const groceries = ["milk", "bread", "eggs", "flour", "choose", "sugar"];
+sconst groceries = ["milk", "bread", "eggs", "flour", "choose", "sugar"];
 
 //O(n) - stop execution when item is found fafa dada rere ere tete teteeredasd dad
 
@@ -27,4 +27,4 @@ const getElement = (arr, index) => arr[index];
 
 console.log(getElement(numbers, 3));
 //Txdtxtssssssss
-
+ss
