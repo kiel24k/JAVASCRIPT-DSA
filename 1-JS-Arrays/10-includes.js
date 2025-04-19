@@ -34,7 +34,7 @@ const includes = normalArray.includes('six');
 console.log(includes);f
 //hhahaddssdxsssdggygddffijddddsdaaaa
 xddd
-
+ss
 
 
 
