@@ -1,4 +1,4 @@
-econst list = [
+const list = [
     {
         name: "'mikay, ksoy, mosdds '",
         age: 2,
