@@ -1,4 +1,4 @@
-const list = [
+econst list = [
     {
         name: "'mikay, ksoy, mosdds '",
         age: 2,
@@ -28,7 +28,7 @@ const map = list.map((e) => {
 })
 console.log(map)
 //dasdasdasdadasdsdsadasss
-//dsadaswwdsaddaddd
+//dsadaswwdsaddadddww
 
 
 
