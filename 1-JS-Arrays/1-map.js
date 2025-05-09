@@ -29,7 +29,6 @@ const map = list.map((e) => {
 console.log(map)
 //dasdasdasdressxssxxaa
 //dsadaswwdsadhh
-u
 
 
 
