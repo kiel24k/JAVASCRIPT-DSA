@@ -1,4 +1,4 @@
-const list = [
+ssjsconst list = [
     {
         name: "'mikay, ksoy, mosdds '",
         age: 2,
