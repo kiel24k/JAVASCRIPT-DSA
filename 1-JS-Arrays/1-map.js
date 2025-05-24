@@ -29,5 +29,5 @@ const map = list.map((e) => {
 console.log(map)ss
 //dssdssssasaagff
 //dsss
-//jahssdddddss
+
 
