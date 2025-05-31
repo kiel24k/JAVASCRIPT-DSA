@@ -28,6 +28,6 @@ const map = list.map((e) => {
 })
 console.log(map)
 //dvog
-//ds
+//dscc
 
 
