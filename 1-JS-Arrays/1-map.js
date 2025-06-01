@@ -29,4 +29,3 @@ const map = list.map((e) => {
 console.log(map)
 //dvogddsxdcxcvxsdd
 //dscccdxgftty
-s
