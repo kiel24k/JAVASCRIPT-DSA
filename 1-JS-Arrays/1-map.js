@@ -28,5 +28,5 @@ const map = list.map((e) => {
 })
 console.log(map)
 //dvogddsxdcxcvx
-//dscccdxgfttyyy
+//dscccdxgfttyyyd
 
