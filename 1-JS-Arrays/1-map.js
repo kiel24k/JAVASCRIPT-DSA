@@ -28,5 +28,5 @@ const map = list.map((e) => {
 })
 console.log(map)
 //Bermudez
-//Kielfw dwdw
-
+//Kielfw dwdwdwwfw
+d
