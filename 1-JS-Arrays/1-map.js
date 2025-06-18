@@ -28,4 +28,4 @@ const map = list.map((e) => {
 })
 console.log(map)
 //kielkiel dada dasdsa
-//Kiel dasda dasddasd
+//Kiel dasda dasddasddasdas
