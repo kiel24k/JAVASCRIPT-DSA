@@ -26,6 +26,6 @@ const normalArray = [1,2,3,4,5]
 const map = list.map((e) => {
    return  e.favorite_num + 2
 })
-console.log(map)
+console.log(map) dasdas
 //kielkiel   dasdasdasdas dasdas dasd dasd dsada
 //Kielddssxcdssss ss dsadas dsadas dasda dsad dasd dasd
