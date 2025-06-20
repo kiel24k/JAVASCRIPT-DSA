@@ -27,5 +27,5 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
 })
 console.log(map)
-//kielkiel   dasdas
+//kielkiel   dasdasdasdas
 //Kielddssxcdssss ss dsadas dsadas dasda
