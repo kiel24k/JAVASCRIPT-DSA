@@ -28,4 +28,4 @@ const map = list.map((e) => {
 })
 console.log(map) dasdas
 //dcedfwffvv
-//Kccss
+//Kccsxds
