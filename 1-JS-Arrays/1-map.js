@@ -5,7 +5,7 @@
     ",
     },
     {
-        name: 'sa imonng bilat',
+        name: 'sa imonng bilats',
         age: 36,
         favorite_num:"",
     },
