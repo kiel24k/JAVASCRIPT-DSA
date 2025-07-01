@@ -1,4 +1,3 @@
-const list = [
     {
         name: "'kijel alarcon bermudezz'",
         age: 2,
@@ -16,7 +15,7 @@ const list = [
         favorite_num: 2
     },
     {
-        name: 'tAmor',
+        name: 'tAmsor',
         age: 18,
         favorite_num: 5
     }
