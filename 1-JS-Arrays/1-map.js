@@ -6,7 +6,7 @@ const list = [
     ",
     },
     {
-        name: 's',
+        name: 'sa imonng bilat',
         age: 36,
         favorite_num:"",
     },
