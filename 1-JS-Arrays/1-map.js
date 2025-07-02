@@ -27,4 +27,4 @@ const map = list.map((e) => {
 })
 console.log(map) dasdas
 //kiel
-//haha hajja
+//haha hajja yauyd
