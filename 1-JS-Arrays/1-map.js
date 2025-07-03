@@ -27,4 +27,4 @@ const map = list.map((e) => {
 })
 console.log(map) dasdas
 //kilff
-//hak
+//hakgff
