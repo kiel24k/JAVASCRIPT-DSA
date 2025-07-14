@@ -29,5 +29,4 @@ console.log(map) dasdas
 //kiel bermudez alarcon fsfsa
  
 //kieldfasdfdfsadffsfasdsafas
-dasdsa
 
