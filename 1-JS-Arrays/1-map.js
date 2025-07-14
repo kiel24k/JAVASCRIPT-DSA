@@ -27,6 +27,5 @@ const map = list.map((e) => {
 })
 console.log(map) dasdas
 //kiel bermudez alarcon fsfsa
- dasdsa
 //kieldfasdfdfsadffsfasdsafas
 
