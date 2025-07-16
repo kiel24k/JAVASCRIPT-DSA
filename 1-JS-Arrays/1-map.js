@@ -26,5 +26,5 @@ const map = list.map((e) => {
 })
 console.log(map) do d
 //kiel bermudez cfff
-//Kiel bermudez cd
+//Kiel bermudez cdff
 
