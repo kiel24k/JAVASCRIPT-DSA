@@ -1,8 +1,7 @@
     {
         name: "'Kiel Bermudez'",
         age: 2,
-        favorite_num:"
-    ",
+        favorite_num:"d" 
     },
     {
         name: 'sa imonng bilats',
