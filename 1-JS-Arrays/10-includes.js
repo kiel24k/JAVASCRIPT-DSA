@@ -32,5 +32,4 @@ const normalArray = [1,2,3,4,5,'six',7,'eight']
 const includes = normalArray.includes('six');
 console.log(includes);
 //Kiel bermudez
- fsfsa
 
