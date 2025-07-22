@@ -4,4 +4,4 @@ let length = text.length
 console.log(length)
 //sfddfasfsa dasdsa 
 //kiel 
-fdsasadfsda
+
