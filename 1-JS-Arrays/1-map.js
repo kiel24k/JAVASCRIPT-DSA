@@ -28,6 +28,4 @@ console.log(map)
 //dfsdfasddfasdfdfasd
 //dfasdfdsadasdsa
 //kiel bermudez 
-fsdfasdfasdf
-//Kiel bermudez sfsdfdsadsad
 
