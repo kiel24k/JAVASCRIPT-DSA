@@ -26,7 +26,7 @@ const map = list.map((e) => {
 })
 console.log(map) 
 sdfsddfadsf
-/iel
+/ieldsfasd
 //kiel bermudez 
 fsdfas
 //Kiel bermudez 
