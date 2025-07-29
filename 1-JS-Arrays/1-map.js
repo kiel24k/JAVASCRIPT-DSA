@@ -26,5 +26,5 @@ const map = list.map((e) => {
 })
 console.log(map) 
 //Kiel dasds dsadassfsasdas
-//kiel   ijidsadsadfasdfsdfsaddfsdaf
+//kiel   
 
