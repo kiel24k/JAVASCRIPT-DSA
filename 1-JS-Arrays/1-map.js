@@ -26,5 +26,5 @@ const map = list.map((e) => {
 })
 console.log(map) 
 //Kiel 3232
-//kiel   2323
+//kiel 2323
 
