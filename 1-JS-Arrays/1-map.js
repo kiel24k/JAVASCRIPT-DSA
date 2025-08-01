@@ -25,6 +25,6 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
 })
 console.log(map) 
-//Kiel alarcon bermudez fsdfas fsadfas
+//Kiel alarcon bermudez 
 //kiel alarcon bermudez 
 
