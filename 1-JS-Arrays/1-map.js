@@ -27,4 +27,4 @@ const map = list.map((e) => {
 console.log(map) 
 //Kiel alarcon bermudez 
 //kiel alarcon bermudez:: i am the hole
-
+fsf
