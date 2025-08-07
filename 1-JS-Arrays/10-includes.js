@@ -1,7 +1,7 @@
 ss
 const list = [
     {
-        name: 'bombadasdasd ',
+        name: 'dasd',
         age: 22,
         favorite_num: 1
     },
