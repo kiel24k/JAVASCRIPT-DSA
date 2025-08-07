@@ -1,4 +1,4 @@
-ss
+
 const list = [
     {
         name: 'dasd dsadasd dsadasd',
