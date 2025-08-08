@@ -4,7 +4,7 @@
         favorite_num:"d" 
     },
     {
-        name: 'bilat ni pia ',
+        name: '',
         age: 36,
         favorite_num:"",
     },
