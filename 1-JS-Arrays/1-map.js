@@ -1,5 +1,5 @@
     {
-        name: "'Kiel Bermudezfsdfsda '",
+        name: "'Kiel  '",
         age: "dsdsd",
         favorite_num:"d" 
     },
