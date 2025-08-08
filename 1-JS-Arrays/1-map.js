@@ -4,7 +4,7 @@
         favorite_num:"d" 
     },
     {
-        name: 'sa imonng bilats',
+        name: 'sa imonng',
         age: 36,
         favorite_num:"",
     },
