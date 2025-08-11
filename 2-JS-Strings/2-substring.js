@@ -3,4 +3,4 @@ let part =  text.substring(6,13)
 console.log(part);
 //ijhhssaddzsssssazdsaddasdasfsdfsfsdfsfasdfdsad
 //dasdsasdsf dsaddsadasdasdaas
- dsa
+ dsadsadsa
