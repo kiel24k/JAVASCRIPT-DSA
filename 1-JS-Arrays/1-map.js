@@ -16,7 +16,7 @@
     {
         name: 'tAmsor',
         age: 18,
-        favorite_num: "aseddsadassadal"
+        favorite_num: "kiel"
     }
 ]
 
