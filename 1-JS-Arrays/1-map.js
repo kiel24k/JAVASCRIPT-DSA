@@ -16,7 +16,7 @@
     {
         name: 'tAmsor',
         age: 18,
-        favorite_num: "kiel dsadas"
+        favorite_num: "kiel bermudez"
     }
 ]
 
