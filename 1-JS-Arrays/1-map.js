@@ -1,5 +1,5 @@
     {
-        name: "'ddasdas'",
+        name: "'dasdas'",
         age: "d",
         favorite_num:"d" 
     },
