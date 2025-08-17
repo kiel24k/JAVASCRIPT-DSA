@@ -23,7 +23,7 @@ const list = [
     {
         name: 'kiel',
         age: 22,
-        favorite_num: 5
+        favorite_num: 5vg
     }
 ]
 const normalArray = [1,2,3,4,5,'six',7,'eight']
