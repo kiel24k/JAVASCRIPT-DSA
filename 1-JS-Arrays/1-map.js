@@ -26,5 +26,5 @@ const map = list.map((e) => {
 })
 console.log(map) 
 //Kiel alarcon bermudez dd
-//kiel bermudez ughdd sd
+//kiel bermudez ughdd sdss
 
