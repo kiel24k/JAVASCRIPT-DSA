@@ -32,6 +32,6 @@ const normalArray = [1,2,3,4,5]
 const pop = normalArray.pop()
 console.log(normalArray);
 //sssssrrf
-
+ c
 
 
