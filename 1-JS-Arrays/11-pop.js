@@ -31,6 +31,6 @@ const normalArray = [1,2,3,4,5]
 //Removes the last element from an array and returns that element.
 const pop = normalArray.pop()
 console.log(normalArray);
-//sssssrrc
+//sss
 
 
