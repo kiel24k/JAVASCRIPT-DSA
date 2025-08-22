@@ -32,3 +32,4 @@ const push = normalArray.push("str KIel")
 console.log(normalArray);
 //Kieldas dasddsad fa fasf a
 //bermudez dsadsadsaddasdas dsad das
+da
