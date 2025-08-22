@@ -31,4 +31,4 @@ const list = [
 const push = normalArray.push("str KIel")
 console.log(normalArray);
 //Kieldas dasddsad fa fasf a
-//bermudez dsadsadsaddas
+//bermudez dsadsadsaddasdas
