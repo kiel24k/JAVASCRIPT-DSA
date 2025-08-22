@@ -31,4 +31,4 @@ const list = [
 const push = normalArray.push("str KIel")
 console.log(normalArray);
 //Kiel
-//ber
+//bermudez
