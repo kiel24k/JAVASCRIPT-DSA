@@ -32,4 +32,3 @@ const push = normalArray.push("str KIel")
 console.log(normalArray);
 //Kieldas 
 //bermudez 
-da
