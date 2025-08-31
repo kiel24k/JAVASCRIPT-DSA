@@ -29,7 +29,7 @@ const list = [
 ]
 //Appends new elements to the end of an array, and returns the new length.
 const push = normalArray.push("str KIel")
-console.log(normalArray);ddsa
+console.log(normalArray);
 //Kieldas 32
 //bermudez dasdsadsadsa
 
