@@ -26,5 +26,5 @@ const map = list.map((e) => {
 })
 console.log(map) 
 //Kiel alarcon 
-//kiel bermudez 
+//kiel bermudez jjj
 
