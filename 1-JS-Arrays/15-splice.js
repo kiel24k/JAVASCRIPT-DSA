@@ -32,7 +32,7 @@ const normalArray = [1,2,3,4,5]
 const splice = normalArray.splice(1,1)
 console.log(splice);
 console.log(normalArray);
-ss
+sss
 sa
 
 
