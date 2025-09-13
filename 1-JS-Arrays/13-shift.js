@@ -31,5 +31,5 @@ const list = [
 const shift = normalArray.shift()
 console.log(shift);
 console.log(normalArray);
-//dasddasddsaddsliuhygdd
+//dasddasddsaddsliuhygddss
 
