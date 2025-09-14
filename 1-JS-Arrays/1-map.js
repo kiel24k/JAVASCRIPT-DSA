@@ -25,6 +25,6 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
 })
 console.log(map) 
-//Kiel alarcons ssssdasdsa
+//Kiel alarcons ssssdasdsa fsdfas
 //kiel dasdsa dsaddasdas dasdsafsfds
 
