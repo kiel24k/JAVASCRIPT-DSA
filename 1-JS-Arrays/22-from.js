@@ -31,4 +31,4 @@ const list = [
 // Creates a new array from an array-like or iterable object.
 const range = (n) => Array.from({ length: n }, (_, i) => i + 1);
 console.log(range(10)); // [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-//dsadasdsad
+//dsadasdsaddasds
