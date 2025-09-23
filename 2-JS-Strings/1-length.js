@@ -3,4 +3,4 @@ slet text = "Kiel Alarcon Bermudeazzszds"
 let length = text.length
 console.log(length)
 //kielijiiuuydeeeddrseegsssgdd
-dd
+ddt
