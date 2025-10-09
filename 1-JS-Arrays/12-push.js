@@ -31,5 +31,5 @@ const list = [
 const push = normalArray.push("str KIel")
 console.log(normalArray);
 //Kieldas 32
-//bermudez ddcsdf
+//bermudez ddcsdfff
 
