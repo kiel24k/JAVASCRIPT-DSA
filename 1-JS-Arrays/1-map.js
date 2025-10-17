@@ -1,4 +1,4 @@
-  {
+ss     {
         name: "'dsadsddsadsaa'",
         age: "d",
         favorite_num:"d" 
@@ -25,5 +25,5 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
 })
 console.log(map) 
-//Kiel alarcon bermudez dsadsa
+//Kiel alarcon bermudez 
 
