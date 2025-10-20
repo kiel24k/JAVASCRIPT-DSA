@@ -1,4 +1,4 @@
-ss     {
+const test =  {
         name: "'dsadsddsadsaa'",
         age: "d",
         favorite_num:"d" 
