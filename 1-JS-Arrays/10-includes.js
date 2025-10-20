@@ -1,4 +1,4 @@
-hh
+
 const list = [
     {
         name: 'Kiel fsdf',
