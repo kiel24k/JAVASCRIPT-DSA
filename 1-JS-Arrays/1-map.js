@@ -16,7 +16,7 @@ const test =  [{
     {
         name: 'hh',
         age: 18,
-        favorite_num: "kiel "
+        favorite_num: "kielsda "
     }
 ]
 
