@@ -1,5 +1,5 @@
 const test =  [{
-        name: "'dsadsddsadsaadsw'",
+        name: "'adsw'",
         age: "d",
         favorite_num:"d" 
     },
