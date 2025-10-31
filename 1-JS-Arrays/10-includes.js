@@ -31,5 +31,5 @@ const normalArray = [1,2,3,4,5,'six',7,'eight']
 
 const includes = normalArray.includes('siix');
 console.log(includes);
-//Kiel dddd dvrd ffrvc ff dff
+//Kiel dddd dvrd ffrvc ff dffff
 
