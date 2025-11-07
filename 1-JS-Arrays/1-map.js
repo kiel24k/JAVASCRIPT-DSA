@@ -25,7 +25,7 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
 })
 console.log(map)
-ddccffdddd
+ddccffdddd ff
 
 
 
