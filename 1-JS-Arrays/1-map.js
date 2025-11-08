@@ -1,4 +1,4 @@
-cons test =  [{
+ttcons test =  [{
         name: "'adsw'",
         age: "d",
         favorite_num:"d" 
