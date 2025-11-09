@@ -3,4 +3,3 @@ slet text = "Kiel Alarcon Bermudeazzszds"
 let length = text.length
 console.log(length)ddcx
 //das uhff
-cxdduh
