@@ -32,5 +32,4 @@ const list = [
 const unshift = normalArray.unshift("add on first!")
 console.log(unshift);
 console.log(normalArray);
-huij
-
+huijij
