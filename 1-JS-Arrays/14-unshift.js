@@ -29,7 +29,7 @@ const list = [
 ]
 
 //Adds new elements to the beginning of an array, and returns the new length.
-const unshift = normalArray.unshift("add on first!")
+const unshift = normalArray.unshift("add on first!")ff
 console.log(unshift);
 console.log(normalArray);
 fdffxxff
