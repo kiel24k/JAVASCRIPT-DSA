@@ -25,5 +25,5 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
     })
 fccc rvv
-ddcc tvv
+ddcc
 
