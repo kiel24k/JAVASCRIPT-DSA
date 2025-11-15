@@ -32,4 +32,4 @@ const shift = normalArray.shift()
 console.log(shift);
 console.log(normalArray);
 //das dd
- xx
+ xxxx
