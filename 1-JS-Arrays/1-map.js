@@ -13,7 +13,7 @@ const test =  [{
         age: 19,
         favorite_num: 2
     },
-    {
+    {uh
         name: 'hh',
         age: 18,
         favorite_num: "Kiel "
