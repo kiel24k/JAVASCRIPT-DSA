@@ -25,4 +25,4 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
     })
 fccssuu
-bh sshg hgbvv hg hy hgg
+bh sshg hgbvv hg hy hgg hh
