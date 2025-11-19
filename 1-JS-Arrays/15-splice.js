@@ -33,7 +33,7 @@ const splice = normalArray.splice(1,1)
 console.log(splice);
 console.log(normalArray);
 dd
-dd
+dddd
 
 
 
