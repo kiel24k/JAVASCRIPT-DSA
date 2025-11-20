@@ -5,4 +5,4 @@ let result = text.toUpperCase()
 let result1 = text.toLowerCase()
 console.log(result);
 console.log(r
-    //rfrdd
+    //rfrdd ih
