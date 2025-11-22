@@ -24,4 +24,4 @@ const normalArray = [1,2,3,4,5]
 const map = list.map((e) => {
    return  e.favorite_num + 2
     })
-//de dd ss ss ff ff dd dd dd
+//de dd ss ss ff ff dd dddd
