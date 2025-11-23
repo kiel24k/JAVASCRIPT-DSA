@@ -32,4 +32,4 @@ const list = [
 const unshift = normalArray.unshift("add on first!")ff
 console.log(unshift);
 console.log(normalArray);
-fr ff
+fr ff ff
