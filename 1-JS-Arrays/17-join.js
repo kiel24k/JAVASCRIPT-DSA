@@ -29,7 +29,7 @@ const list = [
 ]
 //Joins all elements of an array into a string.
 const join = normalArray.join(', ')
-;console.log(join);  ddff
+;console.log(join);  ddffgg
 
 
 
