@@ -23,5 +23,5 @@ const test =  [{
 const normalArray = [1,2,3,4,5]
 const map = list.map((e) => {
    return  e.favorite_num + 2
-    }) fsdaf
-//ffff fcff  fsadfasd fsad
+    }) 
+//ffff fcff  fsadfasd fsadf sfa
