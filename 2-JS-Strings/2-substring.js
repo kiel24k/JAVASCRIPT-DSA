@@ -3,6 +3,6 @@ let part =  text.substring(6,13)
 console.log(part);
 
 dasdas dasd
- das
+ das dasd
  
 
