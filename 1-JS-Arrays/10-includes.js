@@ -1,4 +1,4 @@
-
+d
 const list = [
     {
         name: 'Kiel fsdf',
@@ -14,7 +14,7 @@ const list = [
         name: 'France',
         age: 19,
         favorite_num: 3
-    },
+    },d
     {
         name: 'Amor',
         age: 18,
