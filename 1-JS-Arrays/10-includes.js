@@ -30,5 +30,5 @@ const normalArray = [1,2,3,4,5,'six',7,'eight']
 
 
 const includes = normalArray.includes('siix');
-console.log(includes); hu
-//Kiel gfgy yh
+console.log(includes); 
+//Kiel gfgy yhg
