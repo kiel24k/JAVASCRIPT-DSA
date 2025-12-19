@@ -25,5 +25,5 @@ const map = list.map((e) => {
    return  e.favorite_num + 2
     }) 
 //ff uu dsfsdfdsdsaadas
-sdasah hhh ggss
+sdasah hhh ggssss
   dd
