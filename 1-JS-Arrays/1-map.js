@@ -1,4 +1,4 @@
-cons test =  [{
+sscons test =  [{
         name: "'adsw'",
         age: "d",
         favorite_num:"d" 
