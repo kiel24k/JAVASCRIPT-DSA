@@ -26,7 +26,7 @@ const map = list.map((e) => {
 })
 
 whawt is ayyslumfsadfsda
-sadfasd
+sadfasdfsadfsdaf
 
 
 
