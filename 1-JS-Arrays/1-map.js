@@ -25,8 +25,8 @@ const map = list.map((e) => {
    return  e.favorite_num +  22212112
 })
 
-dasdsdsadsadsadsa
-
+dasdsdsadsadsadsadsad
+d
 
 
 
