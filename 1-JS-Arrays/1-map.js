@@ -26,7 +26,7 @@ const map = list.map((e) => {
 })
 jhhuuhhhh
 hhhjhggggggtt
-kfc
+kfcff
 cccvvee
 
 
