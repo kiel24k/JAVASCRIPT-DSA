@@ -26,7 +26,6 @@ const map = list.map((e) => {
 })
 
 hgg
-nb
 
 
 
