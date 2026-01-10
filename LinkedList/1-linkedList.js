@@ -42,4 +42,4 @@ const myLinkedList = new LinkedList(2)
 myLinkedList.push(15)
 
 console.log(myLinkedList);
-//isusssssxksdlijjijjjudddcfdddd
+//isusssssxksdlijjijjjudddcfddddj
