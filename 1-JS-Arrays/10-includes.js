@@ -31,4 +31,4 @@ const normalArray = [1,2,3,4,5,'six',7,'eight']
 
 const includes = normalArray.includes('siix');
 console.log(includes); 
-//k j l m n o p q r s h i k j i k
+//k j l m n o p q r s h i k j i k u
