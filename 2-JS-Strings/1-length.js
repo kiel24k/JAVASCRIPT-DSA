@@ -3,4 +3,4 @@ let text = "Kiel Alarcon Bermudeazzszds"
 let length = text.length
 console.log(length)
 //d jgi jjnn jn uu ju sfsa
-fsf
+fsffsafasd
