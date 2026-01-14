@@ -4,3 +4,4 @@ let length = text.length
 console.log(length)
 //d jgi jjnn jn uu ju sfsa
 fsffsafasd
+fsadfsad
